@@ -7,10 +7,6 @@ date: 2021-11-28
 
 <br>
 
-<p align="center">
-<img src="/assets/images/about/photo-portada.jpeg">
-</p>
-
 Mi nombre es Gonzalo M. (aka **Av4sin**), actualmente estudio y me gustaría compartir mis conocimientos con la comunidad de internet.
 
 Estas son las certificaciones de las que me gustaría disponer:

@@ -2,12 +2,12 @@
 layout: splash
 title: "Información del autor"
 permalink: /about/
-date: 2021-11-28
+date: 2022-02-3
 ---
 
 <br>
 
-Mi nombre es Gonzalo M. (aka **Av4sin**), actualmente estudio y me gustaría compartir mis conocimientos con la comunidad de internet.
+Mi nombre es Gonzalo M. (aka **Av4sin**), actualmente estudio y me gustaría compartir mis conocimientos con la comunidad de internet. Soy un chico que en 6º de primaria comencé a ir a clases de robótica en el colegio como extraescolar. Allí, conocí a la persona que inspiró mi futuro. Jorge, el profesor que en aquella época impartía esas clases, estba acabando de estudiar telecomunicaciones, ingeniería que había estudiado tras acabar ingeniería informática. El, me enseño unos pocos básicos, con 14 años, me dí cuenta de que un hobbie que me encantaba, la ciberseguridad podía desrrollarse como un trabajo en el futuro, así que me empece a interesar mucho en el tema, comencé a leer libros, hacer cursos y ver millones de videos en la plataforma youtube. 
 
 Estas son las certificaciones de las que me gustaría disponer:
 
@@ -100,6 +100,18 @@ Estos son los exploits que hasta la fecha de hoy tengo registrados:
 - Entrevista en HackBySecurity: [Ver entrevista](https://www.hackbysecurity.com/entrevista/marcelo-vazquez)
 -->
 # Herramientas
+
+## Propias
+He creado varias herramientas para facilitar las cosas a la hora d hacer intrusiones en los sitemas para auditarlos:
+
+- [Automap](https://github.com/wobegone/Automap) (Herramienta para auditar direcciones ip, y esquemas de redes. Funciona con NMAP)
+- [Audiocracker](https://github.com/wobegone/audiocracker) (Herramienta para obtener grabaciones de audio accediendo a un enlace)
+- [Infinite Alert](https://github.com/wobegone/infinite_alert) (Herramienta para crear una alerta persistente en el navegador. Util para probar vulnerabilidades de sistemas a denegación de servicios por causa de poco almacenamiento)
+- [MiraWifi](https://github.com/wobegone/Mirawifi) (Herramienta para encontrar contraseñas, direcciones ip y más información acerca de redes, en windows)
+- [Coleción de ejecutables de Windows](https://github.com/wobegone/Windows) (Util para automatizar tareas y acciones en sistemas windows a la hora de vulnerarlos)
+- [DuckyPin](https://github.com/wobegone/DuckyPin) (Ejecutable  compatible con digispark, y con el usb rubber ducky para poder crackear una contraeña de un dispositivo movil a través de un ataque de fuerza bruta)
+
+## Externas
 Recomiendo las siguientes herramientas:
 
 - [evilTrust](https://github.com/s4vitar/evilTrust) (Herramienta ideal para el despliegue automatiado de un Rogue AP con capacidad de selección de plantilla + 2FA)
@@ -129,19 +141,15 @@ Asistente en los siguientes eventos de ciberseguridad:
 
 ## Otros
 
-- Administrador y creador del blog **InfinitoPython** (Más de 13.000 miembros) ([Enlace](https://infinitopython.blogspot.com))
+- Administrador y creador del blog **InfinitoPython** (Más de 650 miembros) ([Enlace](https://infinitopython.blogspot.com))
+- Administrador y creador de la web **Wobegone** ([Enlace](https://wobegone.github.io))
+- Administrador y creador de la web **Wobegone v2** ([Enlace]())
+- Administrador y creador de la web **IVBESO** (Creada hace unos años para mis compañeros de clase) ([Enlace]())
+- Administrador de la comunidad de Discord Infinyte([Enlace]())
 
 # Correo y contacto directo
 
-¿Quieres ponerte en contacto conmigo?, puedes hacerlo a través de la dirección de correo `hagamos.que.funcione.hquef@gmail.com`. Sólo contesto a correos encriptados, los demás no los contesto.
+¿Quieres ponerte en contacto conmigo?, puedes hacerlo a través de la dirección de correo `hagamos.que.funcione.hquef@gmail.com`
+o `infinitopython@tech-center.com`. 
 
-Para aquellos que me quieran enviar un mensaje, por aquí os dejo mi clave pública:
-
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-
-
------END PGP PUBLIC KEY BLOCK-----
-```
-
-No olvidéis de pasarme vuestra clave pública en el propio correo que me enviéis, de lo contrario no lo contestaré de vuelta. Os recomiendo usar el plugin **Enigmail** desde **Thunderbird** para gestionar cómodamente las claves.
+Os recomiendo usar el plugin **Enigmail** desde **Thunderbird** para gestionar cómodamente las claves públicas.

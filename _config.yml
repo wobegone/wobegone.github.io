@@ -104,7 +104,7 @@ author:
   name             : "Av4sin"
   avatar           : "/assets/images/avatar.png"
   bio              : "Student and hacking lover"
-  uri              :
+  uri              : "https://infinitopython.blogspot.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -114,9 +114,9 @@ author:
   foursquare       :
   github           : "wobegone"
   gitlab           :
-  google_plus      : "infinito python"
+  google_plus      : #"infinito python"
   keybase          :
-  instagram        :
+  instagram        : "infinito_python"
   lastfm           :
   linkedin         : 
   pinterest        :
